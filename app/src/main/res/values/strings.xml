@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Birthday</string>
+    <string name="happy_birthday">Happy Birthday</string>
+    <string name="keerthy_suresh">Keerthy Suresh</string>
+    <string name="wish">Wish</string>
+    <string name="Roll">Roll</string>
+</resources>
